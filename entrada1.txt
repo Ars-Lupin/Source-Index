@@ -1,0 +1,4 @@
+3
+a1.txt: 4: agua azul agua agua
+a2.txt: 4: bola azul agua ceu
+a3.txt: 5: ceu azul ceu azul ceu
